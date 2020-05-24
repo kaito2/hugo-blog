@@ -1,0 +1,3 @@
+[submodule "kiss"]
+	path = themes/kiss
+	url = https://github.com/ribice/kiss.git
